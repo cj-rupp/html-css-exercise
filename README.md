@@ -14,3 +14,5 @@ This folder also contains some auxiliary files:
 - **package.json, package-lock.json, .htmlvalidate.json:** Assorted node auxiliary files.
 
 The page has been check with HTML validation (in VSCode) and Lighthouse. I trust this will suffice.
+
+I have added styl.css, based on a contrastive colour palette, from an accessible palette generator. I have tried to explore different types of selector. However, there is some repetition in the link styling. I have attempted to make the main header fonts adaptive, but I couldn't really see this in tests.
